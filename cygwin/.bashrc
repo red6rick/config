@@ -79,7 +79,7 @@ function f()   {
 }
 
 function fx()   {
-    /c/forthinc/swiftforth/bin/sf.exe include c:\\rcvn\\rcvn.f "$@" &
+    /c/forthinc/swiftforth/bin/sf.exe include c:\\rcvn\\forthbox\\rcvn.f "$@" &
     disown
 }
 
